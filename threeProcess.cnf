@@ -1,0 +1,12 @@
+Start Simulator Configuration File:
+Version/Phase : 1.01
+File Path : threeProcess.mdf
+CPU Scheduling Code : FCFS-N
+Quantum Time (cycles) : 12
+Memory Available (KB) : 12000
+Memory Display (On/Off) : Off
+Processor Cycle Time (msec) : 13
+I/O Cycle Time (msec) : 7
+Log To : Monitor
+Log File Path : none
+End Simulator Configuration File.
